@@ -1,0 +1,5 @@
+PollStationTest:test_CastVote() (gas: 112624)
+PollStationTest:test_Fail_CastVoteTwice() (gas: 114264)
+PollStationTest:test_Fail_VoteForNonCandidate() (gas: 13771)
+PollStationTest:test_GasCostForMultipleVotes() (gas: 141605)
+PollStationTest:test_TwoVoters() (gas: 162121)

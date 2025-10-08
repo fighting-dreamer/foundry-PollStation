@@ -47,6 +47,4 @@ contract PollStation {
 
         return true;
     }
-
-
 }
